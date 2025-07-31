@@ -34,7 +34,22 @@ The game also keeps track of the number of attempts and congratulates the user u
 
 ### 🚀 Steps to Run
 
+##🖥️ Demo
+  Welcome to the Number Guessing Game!
+  I'm thinking of a number between 1 and 100.
+  Enter your guess: 30
+  Too low!
+  Enter your guess: 70
+  Too high!
+Enter your guess: 55
+Correct! You guessed the number in 3 attempts.
+
+
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/number-guessing-game.git
    cd number-guessing-game
+
+
+
+   
