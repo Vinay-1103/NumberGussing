@@ -2,7 +2,6 @@
 # 🎯 Number Guessing Game
 
 A fun and interactive console-based game built with Java, where the user tries to guess a randomly generated number. With hints provided after each guess, this game is a great example of using loops, conditionals, and user input handling in Java.
-
 ---
 
 ## 🕹️ Game Overview
