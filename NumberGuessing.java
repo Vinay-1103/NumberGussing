@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class NumberGuessing {
     public static void main(String[] args) {
         String play;
+        
         do {
         Random rd=new Random();
         int secretNumber=rd.nextInt(100)+1;
